@@ -1,0 +1,1295 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Australian Lawyers Directory – All Lawyers, Solicitors firms, Barristers and Bar Chambers in Australia, Sydney, Melbourne, Brisbane</title>
+    <meta name="keywords" content="Australian Lawyers Directory" />
+    <meta name="description" content="Australian Lawyers Directory – the most comprehensive, reliable guide to Australia’s Solicitors firms, Barristers and Bar Chambers for clients and lawyers.
+" />
+    <title></title>
+
+    <link rel="stylesheet" type="text/css" media="screen" href="/css/lawyers.css?v=1.3" />
+    <link rel="stylesheet" type="text/css" media="screen" href="/css/lawyers-adaptive.css?v=1.3" />
+    <!--[if IE]>
+        <link rel="stylesheet" type="text/css" media="screen" href="/css/lawyers-ie.css" />
+    <![endif]-->
+    <script src="/js/libs/jquery-1.7.1.min.js"></script>
+    <script src="/js/jquery-ui-1.8.12.custom.min.js"></script>
+    <script src="/js/modernizr.custom.61216.js"></script>
+    <script src="/js/selectivizr-min.js"></script>
+    <script src="/js/lawyers.js"></script>
+    <script src="/scripts/ajax.js"></script>
+    <script src="/scripts/addShortList.js"></script>
+    <script src="/scripts/searchFunctions.js?ver=1.1"></script>
+    <script>
+    var myAjax = new sack();
+    </script>
+    <meta name="google-site-verification" content="" />
+    <link rel="shortcut icon" href="/favicon.ico" />
+</head>
+<body>
+
+    <div id="container">
+
+        <div class="topMenu">
+            
+             <table style="width:100%;height:30px;border-spacing:0px;">   
+                 <tr>
+                    <td class="topMenuFirstItem"> </td>
+                    <td class="topMenuItem" style="text-align: left;width:25%">    <a  href="http://www.australiandirectories.com.au"><span class="realSmallCapsFirst">A</span><span class="realSmallCaps">ustralian</span><span class="realSmallCapsFirst">D</span><span class="realSmallCaps">irectories.com.au</span></a>
+                    </td>
+                    <td class="topMenuItem"><a href="http://www.australianschoolsdirectory.com.au"><span class="realSmallCapsFirst">S</span><span class="realSmallCaps">chools</span></a></td>
+                    <td class="topMenuItem"><a href="http://www.privateschoolsdirectory.com.au"><span class="realSmallCapsFirst">P</span><span class="realSmallCaps">rivate</span> <span class="realSmallCapsFirst">S</span><span class="realSmallCaps">chools</span></a></td>
+                    <!--<td class="topMenuItem"><a href="http://www.australianlawyersdirectory.com.au"><span class="realSmallCapsFirst">L</span><span class="realSmallCaps">awyers</span></a></td>-->
+                    <td class="topMenuItem"><a href="http://www.australianaccountantsdirectory.com.au"><span class="realSmallCapsFirst">A</span><span class="realSmallCaps">ccountants</span></a></td>
+                    <td class="topMenuItem"><a href="http://www.australiandentistsdirectory.com.au"><span class="realSmallCapsFirst">D</span><span class="realSmallCaps">entists</span></a></td>
+                    <td class="topMenuItem"><a href="http://www.australiandoctorsdirectory.com.au"><span class="realSmallCapsFirst">D</span><span class="realSmallCaps">octors</span></a></td>
+                 </tr></table>
+                
+</div>
+        <div id="top" class="top-no-strip">
+            <div class="top-banner">
+                <div class="top-banner__desktop">
+
+                </div>
+                <div class="top-banner__mobile">
+
+                </div>
+            </div>
+            <div class="top-header">
+                <a href="/"><img class="top-header__logo" src="/images/asdlogo.png" alt="ASD Logo" /></a>
+                <img class="top-header__tick" src="images/tick.png" alt="Tick" />
+            </div>
+            <!-- <img src="images/image_strip.jpg" alt="Image Strip" /> -->
+        </div><!-- end #top -->
+
+        <style type="text/css">
+#global-nav { margin: 0 0 3px; background-color: #ba0012; }
+#global-nav ul { height: 28px; padding: 0; margin: 0; }
+#global-nav li:hover { background-color: #424242; }
+#global-nav ul ul { display: none; height: auto; border-color: #eee #ddd #bbb #ccc; box-shadow: 0 5px 10px #666; }
+#global-nav li { position: relative; float: left; font-size: 12px; line-height: 18px; list-style: none; border-right: 1px solid #fff; }
+#global-nav a { display: block; padding: 5px 20px; color: #fff; text-align: center; text-decoration: none; text-transform: uppercase; }
+#global-nav a:hover { color: #fff; text-decoration: none; }
+#global-nav li:hover ul { position: absolute; display: block; z-index: 999; top: 28px; left: 0; width: 200px; background: #fff; border: 1px solid #ddd; }
+#global-nav li li { float: none; margin: 0; background-image: none; border-style: none; }
+#global-nav ul ul a { padding: 6px 10px; color: #555; font-size: 12px; text-align: left; text-transform: none; border-style: none; }
+#global-nav ul ul li:hover { background-color: #ba0012; }
+#global-nav ul ul li:hover a { color: #fff; }
+</style>
+<div id="global-nav">
+    <ul>
+        <li class="active">
+            <a href="/">Home</a>
+        </li>
+        <li>
+            <a href="/search.php">Search For Lawyers</a>
+            <nav id="global-nav">
+                <ul>
+                    <li>
+                        <a href="/search.php">All Lawyers Search</a>
+                    </li>
+                    <li>
+                        <a href="/search-name.php">Find Lawyer by Name</a>
+                    </li>
+                    <li>
+                        <a href="/search-lawarea.php">Find Lawyer by Area of Law</a>
+                    </li>
+                    <li>
+                        <a href="/search-special.php">Find Lawyer by Special Issue</a>
+                    </li>
+                    <li>
+                        <a href="/search-quality.php">Find Lawyer by Special Quality</a>
+                    </li>
+                    <li>
+                        <a href="/search-feature.php">Lawyers with Feature Pages</a>
+                    </li>
+                </ul>
+            </nav><!-- end #global-nav -->
+        </li>
+        <li>
+            <a href="/search-feature.php">FEATURED LAWYERS</a>
+            <nav id="global-nav">
+                <ul>
+                    <li>
+                        <a href="/search-feature.php">Lawyers with Feature Pages</a>
+                    </li>
+                </ul>
+            </nav><!-- end #global-nav -->
+        </li>
+        
+        <li>
+            <a href="/LawInformation/1/Overview.html">Law Information</a>
+            <nav id="global-nav">
+                <ul>
+                    <li>
+                        <a href="/LawInformation/1/Overview.html">Law Information</a>
+                    </li>
+                    <li>
+                        <a href="/Sydney-Lawyers">NSW Lawyers</a>
+                    </li>
+                    <li>
+                        <a href="/Melbourne-lawyers">Victorian Lawyers</a>
+                    </li>
+                    <li>
+                        <a href="/Brisbane-Lawyers">Queensland Lawyers</a>
+                    </li>
+                    <li>
+                        <a href="/GoldCoast-Lawyers">Gold Coast Lawyers</a>
+                    </li>
+                    <li>
+                        <a href="/Adelaide-Lawyers">South Australian Lawyers</a>
+                    </li>
+                    <li>
+                        <a href="/Perth-Lawyers">West Australia Lawyers</a>
+                    </li>
+                    <li>
+                        <a href="/Hobart-Lawyers">Tasmania Lawyers</a>
+                    </li>
+                    <li>
+                        <a href="/Darwin-Lawyers">Northern Territory Lawyers</a>
+                    </li>
+                    <li>
+                        <a href="/Canberra-Lawyers">ACT Lawyers</a>
+                    </li>
+                    <li>
+                        <a href="/LawInformation/46/Overview.html">Law Societies & Bar Associations</a>
+                    </li>
+                    <li>
+                        <a href="/LawInformation/49/Overview.html">Legal Organisations</a>
+                    </li>
+                    <li>
+                        <a href="/family-lawyers">Family Lawyers</a>
+                    </li>
+                    <li>
+                        <a href="/criminal-lawyers">Criminal Lawyers</a>
+                    </li>
+                    <li>
+                        <a href="/Immigration-lawyers">Immigration Lawyers</a>
+                    </li>
+                    <li>
+                        <a href="/Personal-Injury-Lawyers">Personal Injury Lawyers</a>
+                    </li>
+                    <li>
+                        <a href="/NewcastleSolicitors">Newcastle Solicitors</a>
+                    </li>
+                </ul>
+            </nav><!-- end #global-nav -->
+        </li>
+        <li>
+            <a href="/ForLawyers/4/Overview.html">For Lawyers</a>
+            <nav id="global-nav">
+                <ul>
+                    <li>
+                        <a href="/ForLawyers/4/Overview.html">For Lawyers</a>
+                    </li>
+                    <li>
+                        <a href="/ForLawyers/39/Overview.html">About Feature Pages</a>
+                    </li>
+                    <li>
+                        <a href="/postcode-search.php">First Lawyer in Region Check</a>
+                    </li>
+                    <li>
+                        <a href="/lawyer-login.php">Lawyers Log-in</a>
+                    </li>
+                </ul>
+            </nav><!-- end #global-nav -->
+        </li>
+        <li>
+            <a href="/shortlist_register.php">My Shortlist</a>
+            <nav id="global-nav">
+                <ul>
+                    <li>
+                        <a href="/shortlist_register.php">Register</a>
+                    </li>
+                    <li>
+                        <a href="/shortlist.php">My Short-List</a>
+                    </li>
+                </ul>
+            </nav><!-- end #global-nav -->
+        </li>
+        <li>
+            <a href="/contact.php">Contact Us</a>
+        </li>
+    </ul>
+</div><!-- end #global-nav -->
+
+        <div class="grid">
+
+            <div class="side-bar">
+                <nav class="secondary-nav">
+                    <ul>
+                        <li>
+                            <a class="active" href="search.php">All Lawyers Search</a><span class="arrow"></span>
+                        </li>
+                        <li>
+                            <a href="search-name.php">Find Lawyer By Name</a><span class="arrow"></span>
+                        </li>
+                        <li>
+                            <a href="search-lawarea.php">Find Lawyer By Area of Law</a><span class="arrow"></span>
+                        </li>
+                        <li>
+                            <a href="search-special.php">Find Lawyer By Special Issue</a><span class="arrow"></span>
+                        </li>
+                        <li>
+                            <a href="search-quality.php">Find Lawyer By Special Quality</a><span class="arrow"></span>
+                        </li>
+                        <li>
+                            <a href="search-feature.php">Lawyers with Feature Pages</a><span class="arrow"></span>
+                        </li>
+                        <li>
+                            <a href="/AllLawyersSearch/56/Overview.html">Gold Coast Lawyers</a><span class="arrow"></span>
+                        </li>
+                    </ul>
+                </nav>
+
+                <form id="searchForm" name="searchForm" method="post" action="index.php">
+
+                
+                <input type="hidden" id="searchType" name="searchType" value="Suburb" />
+                <input name="noRefine" id="noRefine" type="hidden" value="">
+                <input name="lawyerName" id="lawyerName" type="hidden" value="">
+                <input name="distanceCalc" id="distanceCalc" type="hidden" value="">
+                <input name="searchWithin" id="searchWithin" type="hidden" value="10">
+                <input name="list_state" id="list_state" type="hidden" value="NSW">
+                <input name="list_state2" id="list_state2" type="hidden" value="">
+                 <input name="lawyer_id" id="lawyer_id" type="hidden" value="">
+
+                <input name="txtSuburb" type="hidden" id = "txtSuburb" value="2000">
+                <input name="search" type="hidden" value="true">
+                <input name="pageNum" type="hidden" id="pageNum" value="104">
+                <input name="searchType" type="hidden" id="searchType" value="Suburb">
+                <input name="type" type="hidden" id = "type" value=""><input name="typeRefine" type="hidden" id = "typeRefine" value=""><input name="level" type="hidden" id = "level" value=""><input name="lawarea" type="hidden" id = "lawarea" value=""><input name="lawareaRefine" type="hidden" id = "lawareaRefine" value="">                <input name="flashfile" type="hidden" id="flashfile" value="">
+                <input name="feature" type="hidden" id="feature" value="">
+                <input name="list_region" type="hidden" id="list_region" value="">
+                <input name="list_subreg" type="hidden" id="list_subreg" value="">
+                <input name="list_subreg2" type="hidden" id="list_subreg2" value=""><br />
+
+                <fieldset class="search">
+                    <legend>Refine Results by</legend>
+                    <div id="filter-service" class="filter">
+                                                <a href="#" onclick="refineSearch('typeRefine', 'Barrister', true)" class="whiteText">Barrister (1642)</a>
+                                                <br>
+                                                <a href="#" onclick="refineSearch('typeRefine', 'Solicitor', true)" class="whiteText">Solicitor (1221)</a>
+                                                <br>
+                                                <a href="#" onclick="refineSearch('typeRefine', 'Barrister Chambers', true)" class="whiteText">Barrister Chambers (104)</a>
+                                                <br>
+                                                <a href="#" onclick="refineSearch('typeRefine', 'QC', true)" class="whiteText">Queens/Senior Counsel (285)</a>
+                                                <br>
+                    </div><!-- end #filter-service.filter -->
+                </fieldset><!-- end .search -->
+
+                <fieldset class="search">
+                    <legend>Law Area</legend>
+                    <div id="filter-quality" class="filter">
+                                                <a href="#" onclick="refineSearch('lawareaRefine', 'Commercial', true)" class="whiteText">Commercial Law (1298)</a>
+                                                <br>
+                                                <a href="#" onclick="refineSearch('lawareaRefine', 'Criminal', true)" class="whiteText">Criminal Law (641)</a>
+                                                <br>
+                                                <a href="#" onclick="refineSearch('lawareaRefine', 'Family', true)" class="whiteText">Family Law (453)</a>
+                                                <br>
+                                                <a href="#" onclick="refineSearch('lawareaRefine', 'Personal', true)" class="whiteText">Personal Injury (532)</a>
+                                                <br>
+                                                <a href="#" onclick="refineSearch('lawareaRefine', 'Property', true)" class="whiteText">Property (914)</a>
+                                                <br>
+                                                <a href="#" onclick="refineSearch('lawareaRefine', 'Wills', true)" class="whiteText">Wills &amp; Estates (740)</a>
+                                                <br>
+                    </div><!-- end #filter-quality.filter -->
+                </fieldset><!-- end .search -->
+
+
+                <fieldset class="search">
+                    <legend>Special Issue</legend>
+                    <div id="filter-quality" class="filter">
+                        <select name="specialRefineList" id="specialRefinelist" onchange="refineSpecial()" size="10" style="width:230px">
+                                                        <option value="Administrative Law">Administrative Law (78)</option>
+                                                        <option value="Adoption">Adoption (5)</option>
+                                                        <option value="Advertising/Mkting">Advertising/Mkting (3)</option>
+                                                        <option value="Aged Care">Aged Care (21)</option>
+                                                        <option value="Agriculture">Agriculture (15)</option>
+                                                        <option value="Appeals">Appeals (44)</option>
+                                                        <option value="Arbitration and Dispute">Arbitration and Dispute (39)</option>
+                                                        <option value="Aviation">Aviation (92)</option>
+                                                        <option value="Bail">Bail (15)</option>
+                                                        <option value="Banking">Banking (24)</option>
+                                                        <option value="Bankruptcy">Bankruptcy (55)</option>
+                                                        <option value="Binding Finan Agreements">Binding Finan Agreements (16)</option>
+                                                        <option value="Body Corp/Strata">Body Corp/Strata (34)</option>
+                                                        <option value="Builders Warranty">Builders Warranty (16)</option>
+                                                        <option value="Building & Construction">Building & Construction (27)</option>
+                                                        <option value="Building Contracts">Building Contracts (37)</option>
+                                                        <option value="Business Law">Business Law (46)</option>
+                                                        <option value="Business Succession">Business Succession (15)</option>
+                                                        <option value="Charity">Charity (2)</option>
+                                                        <option value="Child Care Buy/Sell">Child Care Buy/Sell (2)</option>
+                                                        <option value="Child Protection">Child Protection (15)</option>
+                                                        <option value="Child Support">Child Support (25)</option>
+                                                        <option value="Children - Overseas abduction">Children - Overseas abduction (9)</option>
+                                                        <option value="Children - Relocation">Children - Relocation (12)</option>
+                                                        <option value="Childrens Advocacy">Childrens Advocacy (3)</option>
+                                                        <option value="Civil Law ">Civil Law  (12)</option>
+                                                        <option value="Civil Litigation">Civil Litigation (32)</option>
+                                                        <option value="Clubs & Associations">Clubs & Associations (4)</option>
+                                                        <option value="Comcare">Comcare (3)</option>
+                                                        <option value="Commercial Litigation">Commercial Litigation (53)</option>
+                                                        <option value="Commercialisation">Commercialisation (3)</option>
+                                                        <option value="Commissions of Inquiry">Commissions of Inquiry (21)</option>
+                                                        <option value="Common Law">Common Law (5)</option>
+                                                        <option value="Company Trusts">Company Trusts (7)</option>
+                                                        <option value="Compensation Law">Compensation Law (32)</option>
+                                                        <option value="Competition/Trade Practices">Competition/Trade Practices (40)</option>
+                                                        <option value="Confidential Info/Trade Secrets">Confidential Info/Trade Secrets (37)</option>
+                                                        <option value="Conflict resolution">Conflict resolution (1)</option>
+                                                        <option value="Constitutional Law">Constitutional Law (27)</option>
+                                                        <option value="Construction">Construction (375)</option>
+                                                        <option value="Consumer">Consumer (40)</option>
+                                                        <option value="Consumer Credit">Consumer Credit (9)</option>
+                                                        <option value="Contract Law">Contract Law (94)</option>
+                                                        <option value="Copyright">Copyright (39)</option>
+                                                        <option value="Coronial">Coronial (33)</option>
+                                                        <option value="Coronial Inquests">Coronial Inquests (1)</option>
+                                                        <option value="Corporate Governance">Corporate Governance (36)</option>
+                                                        <option value="Corporate Law">Corporate Law (67)</option>
+                                                        <option value="Corporations Act">Corporations Act (70)</option>
+                                                        <option value="Costs Law">Costs Law (3)</option>
+                                                        <option value="Criminal Injuries Compensation">Criminal Injuries Compensation (3)</option>
+                                                        <option value="De facto Law">De facto Law (25)</option>
+                                                        <option value="Debt Recovery">Debt Recovery (70)</option>
+                                                        <option value="Defamation">Defamation (33)</option>
+                                                        <option value="Directors Duties">Directors Duties (36)</option>
+                                                        <option value="Disciplinary Tribunals">Disciplinary Tribunals (31)</option>
+                                                        <option value="Discrimination">Discrimination (29)</option>
+                                                        <option value="Drugs Illegal Use or Trafficking">Drugs Illegal Use or Trafficking (8)</option>
+                                                        <option value="DUI">DUI (10)</option>
+                                                        <option value="Education Law">Education Law (2)</option>
+                                                        <option value="Elder Law">Elder Law (30)</option>
+                                                        <option value="Employment">Employment (61)</option>
+                                                        <option value="Energy Law">Energy Law (2)</option>
+                                                        <option value="Entertainment">Entertainment (49)</option>
+                                                        <option value="Environmental">Environmental (198)</option>
+                                                        <option value="Equine Law">Equine Law (2)</option>
+                                                        <option value="Equity Law">Equity Law (71)</option>
+                                                        <option value="Estate Administration">Estate Administration (36)</option>
+                                                        <option value="Extradition">Extradition (2)</option>
+                                                        <option value="family dispute resolution">family dispute resolution (6)</option>
+                                                        <option value="Federal Court">Federal Court (37)</option>
+                                                        <option value="Finance">Finance (16)</option>
+                                                        <option value="Financial Planning Negligence">Financial Planning Negligence (1)</option>
+                                                        <option value="Franchise">Franchise (79)</option>
+                                                        <option value="Gaming">Gaming (1)</option>
+                                                        <option value="Grandparents Rights">Grandparents Rights (12)</option>
+                                                        <option value="Human Rights">Human Rights (6)</option>
+                                                        <option value="Immigration Law">Immigration Law (171)</option>
+                                                        <option value="Immigration Visas">Immigration Visas (3)</option>
+                                                        <option value="Industrial">Industrial (283)</option>
+                                                        <option value="Industrial Relations">Industrial Relations (28)</option>
+                                                        <option value="Information Technology">Information Technology (24)</option>
+                                                        <option value="Inquests">Inquests (2)</option>
+                                                        <option value="Insolvency">Insolvency (177)</option>
+                                                        <option value="Insurance Law">Insurance Law (568)</option>
+                                                        <option value="Intellectual Property">Intellectual Property (306)</option>
+                                                        <option value="International Arbitration">International Arbitration (1)</option>
+                                                        <option value="International Law-Private">International Law-Private (12)</option>
+                                                        <option value="International Law-Public">International Law-Public (11)</option>
+                                                        <option value="International Tax">International Tax (1)</option>
+                                                        <option value="International Trade">International Trade (10)</option>
+                                                        <option value="Joint Ventures">Joint Ventures (17)</option>
+                                                        <option value="Land & Environment">Land & Environment (22)</option>
+                                                        <option value="Land Acquisition/Compen">Land Acquisition/Compen (14)</option>
+                                                        <option value="Land Development">Land Development (28)</option>
+                                                        <option value="Landlord & Tenant">Landlord & Tenant (19)</option>
+                                                        <option value="Leases">Leases (184)</option>
+                                                        <option value="Legal Costing">Legal Costing (9)</option>
+                                                        <option value="Licensing">Licensing (84)</option>
+                                                        <option value="Liquor Licensing">Liquor Licensing (10)</option>
+                                                        <option value="Local Government">Local Government (14)</option>
+                                                        <option value="Maritime">Maritime (86)</option>
+                                                        <option value="Media Law">Media Law (25)</option>
+                                                        <option value="Mediation">Mediation (228)</option>
+                                                        <option value="Medical Negligence ">Medical Negligence  (45)</option>
+                                                        <option value="Medico-Legal">Medico-Legal (7)</option>
+                                                        <option value="Mental Health">Mental Health (6)</option>
+                                                        <option value="Military">Military (3)</option>
+                                                        <option value="Mining">Mining (14)</option>
+                                                        <option value="Mortgage & Securities">Mortgage & Securities (20)</option>
+                                                        <option value="Motor Vehicle Compensation">Motor Vehicle Compensation (10)</option>
+                                                        <option value="Native Title/Land rights">Native Title/Land rights (7)</option>
+                                                        <option value="Not for Profit">Not for Profit (4)</option>
+                                                        <option value="Notary">Notary (43)</option>
+                                                        <option value="Occupational Health and Safety ">Occupational Health and Safety  (23)</option>
+                                                        <option value="Parenting Arrangements">Parenting Arrangements (15)</option>
+                                                        <option value="Partnerships">Partnerships (5)</option>
+                                                        <option value="Patent Law">Patent Law (17)</option>
+                                                        <option value="Planning Law">Planning Law (9)</option>
+                                                        <option value="Powers of Attorney">Powers of Attorney (43)</option>
+                                                        <option value="Pre-Nup Agreements">Pre-Nup Agreements (23)</option>
+                                                        <option value="Probate">Probate (8)</option>
+                                                        <option value="Professional Negligence">Professional Negligence (64)</option>
+                                                        <option value="Property & Land Law">Property & Land Law (13)</option>
+                                                        <option value="Property Development">Property Development (16)</option>
+                                                        <option value="Property Settlements - Complex">Property Settlements - Complex (20)</option>
+                                                        <option value="Public Liability">Public Liability (13)</option>
+                                                        <option value="Registered Migration Agent">Registered Migration Agent (2)</option>
+                                                        <option value="Rural">Rural (1)</option>
+                                                        <option value="Same Sex Couples">Same Sex Couples (18)</option>
+                                                        <option value="Social Security Fraud">Social Security Fraud (7)</option>
+                                                        <option value="Sports">Sports (52)</option>
+                                                        <option value="Spousal Maintenance">Spousal Maintenance (12)</option>
+                                                        <option value="Strata Title">Strata Title (8)</option>
+                                                        <option value="Succession Law">Succession Law (68)</option>
+                                                        <option value="Superannuation">Superannuation (22)</option>
+                                                        <option value="Superannuation Disputes">Superannuation Disputes (4)</option>
+                                                        <option value="Superannuation Total and Permanent Disability Claims">Superannuation Total and Permanent Disability Claims (2)</option>
+                                                        <option value="Surrogacy Law">Surrogacy Law (4)</option>
+                                                        <option value="Taxation Law">Taxation Law (36)</option>
+                                                        <option value="Timeshare">Timeshare (1)</option>
+                                                        <option value="Torts">Torts (45)</option>
+                                                        <option value="Total and Permanent Disability">Total and Permanent Disability (3)</option>
+                                                        <option value="Trade Practices">Trade Practices (427)</option>
+                                                        <option value="Trademarks">Trademarks (29)</option>
+                                                        <option value="Trading Law">Trading Law (1)</option>
+                                                        <option value="Traffic Offences">Traffic Offences (83)</option>
+                                                        <option value="Travel and Tourism">Travel and Tourism (3)</option>
+                                                        <option value="Trusts">Trusts (48)</option>
+                                                        <option value="Unfair Dismissal">Unfair Dismissal (5)</option>
+                                                        <option value="Victims of Crime">Victims of Crime (20)</option>
+                                                        <option value="Violence Restraining Orders">Violence Restraining Orders (33)</option>
+                                                        <option value="Wills & Estates - Disputed">Wills & Estates - Disputed (63)</option>
+                                                        <option value="Wine Law">Wine Law (2)</option>
+                                                        <option value="WorkCover">WorkCover (2)</option>
+                                                        <option value="Workers Compensation">Workers Compensation (14)</option>
+                                                        <option value="Workplace Law">Workplace Law (57)</option>
+                                                        <option value="Youth/Juvenile Justice">Youth/Juvenile Justice (16)</option>
+                                                    </select>
+
+                        <input name="specialRefine" type="hidden" id = "specialRefine" value="">                    </div><!-- end #filter-quality.filter -->
+                </fieldset><!-- end .search -->
+
+                                <input name="image" type="image" title="backSearch" src="images/btns/back_to_bllue.gif" alt="Back To Search" align="middle" border="0" style="padding: 0 15px;" />
+                                </form>
+
+                <aside class="feature-box">
+                    <h4><img src="images/hdrs/shortlist_wide.gif" alt="My Shortlist" width="278" height="27" /></h4>
+                    <div id="shortlistContent">
+                                                <p>Make and store a short-list of lawyers</p>
+                        <p><strong>Registered User</strong> - <a href="shortlist.php" class="blueLink">Log-in<br />
+                        </a><strong>New User</strong> - <a href="shortlist_register.php" class="blueLink">Register</a></p>
+                        <br>
+                                            </div>
+                </aside> <!-- eo .feature-box -->
+
+                <!-- <aside class="feature-box">
+                    <h4>Products and Services</h4>
+
+                    <div id="profile-cycle-1">
+
+                        
+                        <div>
+                            <a class="cycle-pic" href="http://www.australianrestaurantsdirectory.com.au">
+                                <img src="" alt="" />
+                            </a>
+                            <h5><a class="cycle-pic" href="http://www.australianrestaurantsdirectory.com.au">Find Restaurants Easily!</a></h5>
+                        </div>
+
+                        
+                    </div>
+
+                    <div class="bodySmall">
+                      <div align="center"><a href="organisations-all.php?type=prod">See all Products and Services</a></div>
+                    </div>
+                </aside> <!-- eo .feature-box -->
+
+                <!-- <aside class="feature-box">
+                    <h4>Organisations</h4>
+
+                    <div id="profile-cycle-2">
+
+                        
+                    </div>
+
+                    <div class="bodySmall">
+                      <div align="center"><a href="organisations-all.php">Other Organisations</a></div>
+                    </div>
+                </aside> <!-- eo .feature-box -->
+
+                <aside class="feature-box">
+                    <h4><img src="images/right/products&amp;services_wide.gif" alt="Products and Services" width="278" height="27" /></h4>
+                    <a href="http://australiandirectories.com.au/mysimpleads/mysa_redir.php?a_id=14&amp;t=1&amp;c=0" onmouseover="window.status='http://www.ludlows.com.au/';return true" onmouseout="window.status='';return true" target="_blank" title=""><img src="http://australiandirectories.com.au/mysimpleads/banners/ludlow final REDO.jpg" alt="" width="300" height="" style="border: 0;" /></a>                    <a href="http://australiandirectories.com.au/mysimpleads/mysa_redir.php?a_id=20&amp;t=1&amp;c=0" onmouseover="window.status='http://www.geoffharrison.com.au';return true" onmouseout="window.status='';return true" target="_blank" title="" rel="nofollow"><img src="http://australiandirectories.com.au/mysimpleads/banners/Geoffrey Harrison Banner with Wig.png" alt="" width="300" height="" style="border: 0;" /></a><br />&nbsp;<br /><a href="http://australiandirectories.com.au/mysimpleads/mysa_redir.php?a_id=60&amp;t=1&amp;c=0" onmouseover="window.status='http://www.sagelegal.com/';return true" onmouseout="window.status='';return true" target="_blank" title=""><img src="http://australiandirectories.com.au/mysimpleads/banners/SAGE adjust.jpg" alt="" width="300" height="" style="border: 0;" /></a><br />&nbsp;<br /><a href="http://australiandirectories.com.au/mysimpleads/mysa_redir.php?a_id=73&amp;t=1&amp;c=0" onmouseover="window.status='http://www.australianlawyersdirectory.com.au/4735/szabo-associates-solicitors-surry-hills';return true" onmouseout="window.status='';return true" target="_self" title=""><img src="http://australiandirectories.com.au/mysimpleads/banners/SL szabo-solicitors-contesting-a-will-300x60.jpg" alt="" width="300" height="" style="border: 0;" /></a><br />&nbsp;<br /><a href="http://australiandirectories.com.au/mysimpleads/mysa_redir.php?a_id=72&amp;t=1&amp;c=0" onmouseover="window.status='http://www.australianlawyersdirectory.com.au/662/bevan-co-lawyers-and-conveyancers-queanbeyan';return true" onmouseout="window.status='';return true" target="_self" title=""><img src="http://australiandirectories.com.au/mysimpleads/banners/BEVAN.jpg" alt="" width="314" height="" style="border: 0;" /></a><br />&nbsp;<br /><a href="http://australiandirectories.com.au/mysimpleads/mysa_redir.php?a_id=77&amp;t=1&amp;c=0" onmouseover="window.status='http://www.australianlawyersdirectory.com.au/14261/boutique-lawyers-melbourne';return true" onmouseout="window.status='';return true" target="_self" title=""><img src="http://australiandirectories.com.au/mysimpleads/banners/BOOMiniBanner.jpg" alt="" width="300" height="" style="border: 0;" /></a><br />&nbsp;<br /><a href="http://australiandirectories.com.au/mysimpleads/mysa_redir.php?a_id=25&amp;t=1&amp;c=0" onmouseover="window.status='http://brookewintersolicitors.com.au/';return true" onmouseout="window.status='';return true" target="_blank" title=""><img src="http://australiandirectories.com.au/mysimpleads/banners/BrookeWinter-FINAL.jpg" alt="" width="300" height="" style="border: 0;" /></a><br />&nbsp;<br /><a href="http://australiandirectories.com.au/mysimpleads/mysa_redir.php?a_id=88&amp;t=1&amp;c=0" onmouseover="window.status='http://www.australianlawyersdirectory.com.au/14083/kavanagh-lawyers-east-perth';return true" onmouseout="window.status='';return true" target="_self" title=""><img src="http://australiandirectories.com.au/mysimpleads/banners/KAVANAGH banner NEW.jpg" alt="" width="300" height="" style="border: 0;" /></a><br />&nbsp;<br /><a href="http://australiandirectories.com.au/mysimpleads/mysa_redir.php?a_id=86&amp;t=1&amp;c=0" onmouseover="window.status='http://www.australianlawyersdirectory.com.au/11921/slades-parsons-solicitors-melbourne';return true" onmouseout="window.status='';return true" target="_self" title=""><img src="http://australiandirectories.com.au/mysimpleads/banners/S&P redo 2.jpg" alt="" width="300" height="" style="border: 0;" /></a><br />&nbsp;<br /><a href="http://australiandirectories.com.au/mysimpleads/mysa_redir.php?a_id=68&amp;t=1&amp;c=0" onmouseover="window.status='http://www.australianlawyersdirectory.com.au/6592/joseph-ho-lawyers-underwood';return true" onmouseout="window.status='';return true" target="_self" title=""><img src="http://australiandirectories.com.au/mysimpleads/banners/jo ho lawyers FINALjpg.jpg" alt="" width="300" height="" style="border: 0;" /></a><br />&nbsp;<br /><a href="http://australiandirectories.com.au/mysimpleads/mysa_redir.php?a_id=90&amp;t=1&amp;c=0" onmouseover="window.status='http://www.australianlawyersdirectory.com.au/8459/websters-lawyers-adelaide-adelaide';return true" onmouseout="window.status='';return true" target="_self" title=""><img src="http://australiandirectories.com.au/mysimpleads/banners/WEBSTERS REDO number.jpg" alt="" width="300" height="" style="border: 0;" /></a><br />&nbsp;<br />                </aside> <!-- eo .feature-box -->
+
+                <script type="text/javascript" src="/js/cycle.js"></script>
+                <script type="text/javascript">
+                    $('#profile-cycle-1').cycle({
+                        tag: 'div',
+                        interval: 5000,
+                        transition: 500
+                    });
+
+                    $('#profile-cycle-2').cycle({
+                        tag: 'div',
+                        interval: 5000,
+                        transition: 500
+                    });
+                </script>
+            </div>
+
+            <div class="main">
+
+                <div style="padding: 10px; margin: 20px 0; border: 1px solid #dae7f2; background-color: #ECF3F7; border-radius: 3px;">
+                                        <p><p><strong>You searched for the following locations:</strong> Sydney 2000 (within 10km) NSW</p>
+                                        <p>Returned 2975 results</p>
+                    
+                </div>
+
+                <div class="old-nav">
+                    <a href="#" onclick="searchForm.submit()" class="old-nav__back-to-search">
+                      <img src="images/btns/back_to_white.gif" alt="Back to Search" />
+                    </a>
+                    <a href="#" onclick="searchMap()" class="old-nav__sho-result">
+                      <img src="images/btns/showResultMap.gif" alt="Show Results On Map" />
+                    </a>
+                </div>
+
+                                <div class="listing-container">
+                    <div class="shortlist-add-container" id='shortlist3708'>
+                        <a class="shortlist-add" href="javascript:addShortList2(3708);">Add to shortlist</a>
+                    </div><!-- end .shortlist-add-container -->
+
+                    <div class="listing">
+                        <div class="listing-header">
+                            <a href="/3708/ohallorans-corporate-lawyers-sydney">O'Hallorans Corporate Lawyers</a>
+                        </div><!-- end .listing-header -->
+
+                        <div class="listing-section" style="padding-top: 0; border: none;">
+                            <p class="contact">
+                                02 8249 4488<br>
+                                <a href="lawyer-result-maps.php?lawyer=3708">Show Map</a>
+                                <!--<a href="/3708/ohallorans-corporate-lawyers-sydney">Show More</a>-->
+                            </p>
+
+                            <p class="address">
+                                3 Spring Street<br>
+                                Sydney NSW, 2000                            </p>
+                        </div><!-- end .listing-section -->
+
+                        <div class="listing-section attributes">
+                            <ul>
+                                                                <li><strong>Solicitor</strong></li>
+                                                                <li>Commercial</li>
+                                                            </ul>
+                        </div>
+
+                    </div><!-- end .listing -->
+                </div>
+                                <div class="listing-container">
+                    <div class="shortlist-add-container" id='shortlist3709'>
+                        <a class="shortlist-add" href="javascript:addShortList2(3709);">Add to shortlist</a>
+                    </div><!-- end .shortlist-add-container -->
+
+                    <div class="listing">
+                        <div class="listing-header">
+                            <a href="/3709/ohara-company-strathfield">O'Hara & Company</a>
+                        </div><!-- end .listing-header -->
+
+                        <div class="listing-section" style="padding-top: 0; border: none;">
+                            <p class="contact">
+                                02 9745 3511<br>
+                                <a href="lawyer-result-maps.php?lawyer=3709">Show Map</a>
+                                <!--<a href="/3709/ohara-company-strathfield">Show More</a>-->
+                            </p>
+
+                            <p class="address">
+                                58 The Boulevarde<br>
+                                Strathfield NSW, 2135                            </p>
+                        </div><!-- end .listing-section -->
+
+                        <div class="listing-section attributes">
+                            <ul>
+                                                                <li><strong>Solicitor</strong></li>
+                                                                <li>Property & Conveyancing</li>
+                                                            </ul>
+                        </div>
+
+                    </div><!-- end .listing -->
+                </div>
+                                <div class="listing-container">
+                    <div class="shortlist-add-container" id='shortlist3711'>
+                        <a class="shortlist-add" href="javascript:addShortList2(3711);">Add to shortlist</a>
+                    </div><!-- end .shortlist-add-container -->
+
+                    <div class="listing">
+                        <div class="listing-header">
+                            <a href="/3711/okeefe-richard-sydney">O'Keefe</a>
+                        </div><!-- end .listing-header -->
+
+                        <div class="listing-section" style="padding-top: 0; border: none;">
+                            <p class="contact">
+                                02 9233 0300<br>
+                                <a href="lawyer-result-maps.php?lawyer=3711">Show Map</a>
+                                <!--<a href="/3711/okeefe-richard-sydney">Show More</a>-->
+                            </p>
+
+                            <p class="address">
+                                19-29 Martin Place<br>
+                                Sydney NSW, 2000                            </p>
+                        </div><!-- end .listing-section -->
+
+                        <div class="listing-section attributes">
+                            <ul>
+                                
+                                <li><strong>Barrister</strong></li>
+                                                                <li>Commercial</li>
+                                                                <li>Personal Injury</li>
+                                                                <li>Construction</li>
+                                                                <li>Insurance Law</li>
+                                                            </ul>
+                        </div>
+
+                    </div><!-- end .listing -->
+                </div>
+                                <div class="listing-container">
+                    <div class="shortlist-add-container" id='shortlist3716'>
+                        <a class="shortlist-add" href="javascript:addShortList2(3716);">Add to shortlist</a>
+                    </div><!-- end .shortlist-add-container -->
+
+                    <div class="listing">
+                        <div class="listing-header">
+                            <a href="/3716/oloughlin-peter-sydney">O'Loughlin</a>
+                        </div><!-- end .listing-header -->
+
+                        <div class="listing-section" style="padding-top: 0; border: none;">
+                            <p class="contact">
+                                02 9237 0500<br>
+                                <a href="lawyer-result-maps.php?lawyer=3716">Show Map</a>
+                                <!--<a href="/3716/oloughlin-peter-sydney">Show More</a>-->
+                            </p>
+
+                            <p class="address">
+                                169-171 Phillip Street<br>
+                                Sydney NSW, 2000                            </p>
+                        </div><!-- end .listing-section -->
+
+                        <div class="listing-section attributes">
+                            <ul>
+                                
+                                <li><strong>Barrister</strong></li>
+                                                                <li>Commercial</li>
+                                                                <li>Family Law</li>
+                                                                <li>Property & Conveyancing</li>
+                                                                <li>Wills & Estates</li>
+                                                                <li>Industrial</li>
+                                                            </ul>
+                        </div>
+
+                    </div><!-- end .listing -->
+                </div>
+                                <div class="listing-container">
+                    <div class="shortlist-add-container" id='shortlist3718'>
+                        <a class="shortlist-add" href="javascript:addShortList2(3718);">Add to shortlist</a>
+                    </div><!-- end .shortlist-add-container -->
+
+                    <div class="listing">
+                        <div class="listing-header">
+                            <a href="/3718/omalley-k-jones-williamson-campsie">O'Malley K Jones & Williamson</a>
+                        </div><!-- end .listing-header -->
+
+                        <div class="listing-section" style="padding-top: 0; border: none;">
+                            <p class="contact">
+                                02 9718 2035<br>
+                                <a href="lawyer-result-maps.php?lawyer=3718">Show Map</a>
+                                <!--<a href="/3718/omalley-k-jones-williamson-campsie">Show More</a>-->
+                            </p>
+
+                            <p class="address">
+                                142 Beamish Street<br>
+                                Campsie NSW, 2194                            </p>
+                        </div><!-- end .listing-section -->
+
+                        <div class="listing-section attributes">
+                            <ul>
+                                                                <li><strong>Solicitor</strong></li>
+                                                            </ul>
+                        </div>
+
+                    </div><!-- end .listing -->
+                </div>
+                                <div class="listing-container">
+                    <div class="shortlist-add-container" id='shortlist3719'>
+                        <a class="shortlist-add" href="javascript:addShortList2(3719);">Add to shortlist</a>
+                    </div><!-- end .shortlist-add-container -->
+
+                    <div class="listing">
+                        <div class="listing-header">
+                            <a href="/3719/omeara-michael-sydney">O'Meara</a>
+                        </div><!-- end .listing-header -->
+
+                        <div class="listing-section" style="padding-top: 0; border: none;">
+                            <p class="contact">
+                                02 9221 0069<br>
+                                <a href="lawyer-result-maps.php?lawyer=3719">Show Map</a>
+                                <!--<a href="/3719/omeara-michael-sydney">Show More</a>-->
+                            </p>
+
+                            <p class="address">
+                                180 Phillip Street<br>
+                                Sydney NSW, 2000                            </p>
+                        </div><!-- end .listing-section -->
+
+                        <div class="listing-section attributes">
+                            <ul>
+                                
+                                <li><strong>Barrister</strong></li>
+                                                            </ul>
+                        </div>
+
+                    </div><!-- end .listing -->
+                </div>
+                                <div class="listing-container">
+                    <div class="shortlist-add-container" id='shortlist3720'>
+                        <a class="shortlist-add" href="javascript:addShortList2(3720);">Add to shortlist</a>
+                    </div><!-- end .shortlist-add-container -->
+
+                    <div class="listing">
+                        <div class="listing-header">
+                            <a href="/3720/oneil-david-sydney">O'Neil</a>
+                        </div><!-- end .listing-header -->
+
+                        <div class="listing-section" style="padding-top: 0; border: none;">
+                            <p class="contact">
+                                02 8233 0316<br>
+                                <a href="lawyer-result-maps.php?lawyer=3720">Show Map</a>
+                                <!--<a href="/3720/oneil-david-sydney">Show More</a>-->
+                            </p>
+
+                            <p class="address">
+                                19-29 Martin Place<br>
+                                Sydney NSW, 2000                            </p>
+                        </div><!-- end .listing-section -->
+
+                        <div class="listing-section attributes">
+                            <ul>
+                                
+                                <li><strong>Barrister</strong></li>
+                                                                <li>Criminal</li>
+                                                                <li>Family Law</li>
+                                                                <li>Personal Injury</li>
+                                                                <li>Industrial</li>
+                                                            </ul>
+                        </div>
+
+                    </div><!-- end .listing -->
+                </div>
+                                <div class="listing-container">
+                    <div class="shortlist-add-container" id='shortlist3722'>
+                        <a class="shortlist-add" href="javascript:addShortList2(3722);">Add to shortlist</a>
+                    </div><!-- end .shortlist-add-container -->
+
+                    <div class="listing">
+                        <div class="listing-header">
+                            <a href="/3722/oneill-marengo-lawyers-sydney">O'Neill Marengo Lawyers</a>
+                        </div><!-- end .listing-header -->
+
+                        <div class="listing-section" style="padding-top: 0; border: none;">
+                            <p class="contact">
+                                02 9267 8822<br>
+                                <a href="lawyer-result-maps.php?lawyer=3722">Show Map</a>
+                                <!--<a href="/3722/oneill-marengo-lawyers-sydney">Show More</a>-->
+                            </p>
+
+                            <p class="address">
+                                31 Market Street<br>
+                                Sydney NSW, 2000                            </p>
+                        </div><!-- end .listing-section -->
+
+                        <div class="listing-section attributes">
+                            <ul>
+                                                                <li><strong>Solicitor</strong></li>
+                                                            </ul>
+                        </div>
+
+                    </div><!-- end .listing -->
+                </div>
+                                <div class="listing-container">
+                    <div class="shortlist-add-container" id='shortlist3723'>
+                        <a class="shortlist-add" href="javascript:addShortList2(3723);">Add to shortlist</a>
+                    </div><!-- end .shortlist-add-container -->
+
+                    <div class="listing">
+                        <div class="listing-header">
+                            <a href="/3723/oneill-partners-commercial-lawyers-sydney">O'Neill Partners Commercial Lawyers</a>
+                        </div><!-- end .listing-header -->
+
+                        <div class="listing-section" style="padding-top: 0; border: none;">
+                            <p class="contact">
+                                02 9232 1244<br>
+                                <a href="lawyer-result-maps.php?lawyer=3723">Show Map</a>
+                                <!--<a href="/3723/oneill-partners-commercial-lawyers-sydney">Show More</a>-->
+                            </p>
+
+                            <p class="address">
+                                55 Hunter Street<br>
+                                Sydney NSW, 2000                            </p>
+                        </div><!-- end .listing-section -->
+
+                        <div class="listing-section attributes">
+                            <ul>
+                                                                <li><strong>Solicitor</strong></li>
+                                                                <li>Commercial</li>
+                                                                <li>Property & Conveyancing</li>
+                                                                <li>Insolvency</li>
+                                                            </ul>
+                        </div>
+
+                    </div><!-- end .listing -->
+                </div>
+                                <div class="listing-container">
+                    <div class="shortlist-add-container" id='shortlist3728'>
+                        <a class="shortlist-add" href="javascript:addShortList2(3728);">Add to shortlist</a>
+                    </div><!-- end .shortlist-add-container -->
+
+                    <div class="listing">
+                        <div class="listing-header">
+                            <a href="/3728/oreilly-bernadette-sydney">O'Reilly</a>
+                        </div><!-- end .listing-header -->
+
+                        <div class="listing-section" style="padding-top: 0; border: none;">
+                            <p class="contact">
+                                02 9373 7400<br>
+                                <a href="lawyer-result-maps.php?lawyer=3728">Show Map</a>
+                                <!--<a href="/3728/oreilly-bernadette-sydney">Show More</a>-->
+                            </p>
+
+                            <p class="address">
+                                179 Elizabeth Street<br>
+                                Sydney NSW, 2000                            </p>
+                        </div><!-- end .listing-section -->
+
+                        <div class="listing-section attributes">
+                            <ul>
+                                
+                                <li><strong>Barrister</strong></li>
+                                                                <li>Criminal</li>
+                                                            </ul>
+                        </div>
+
+                    </div><!-- end .listing -->
+                </div>
+                                <div class="listing-container">
+                    <div class="shortlist-add-container" id='shortlist3734'>
+                        <a class="shortlist-add" href="javascript:addShortList2(3734);">Add to shortlist</a>
+                    </div><!-- end .shortlist-add-container -->
+
+                    <div class="listing">
+                        <div class="listing-header">
+                            <a href="/3734/orourke-gina-sydney">O'Rourke</a>
+                        </div><!-- end .listing-header -->
+
+                        <div class="listing-section" style="padding-top: 0; border: none;">
+                            <p class="contact">
+                                02 9285 8716<br>
+                                <a href="lawyer-result-maps.php?lawyer=3734">Show Map</a>
+                                <!--<a href="/3734/orourke-gina-sydney">Show More</a>-->
+                            </p>
+
+                            <p class="address">
+                                175 Liverpool Street<br>
+                                Sydney NSW, 2000                            </p>
+                        </div><!-- end .listing-section -->
+
+                        <div class="listing-section attributes">
+                            <ul>
+                                
+                                <li><strong>Barrister</strong></li>
+                                                                <li>Criminal</li>
+                                                            </ul>
+                        </div>
+
+                    </div><!-- end .listing -->
+                </div>
+                                <div class="listing-container">
+                    <div class="shortlist-add-container" id='shortlist3735'>
+                        <a class="shortlist-add" href="javascript:addShortList2(3735);">Add to shortlist</a>
+                    </div><!-- end .shortlist-add-container -->
+
+                    <div class="listing">
+                        <div class="listing-header">
+                            <a href="/3735/orourke-paul-sydney">O'Rourke</a>
+                        </div><!-- end .listing-header -->
+
+                        <div class="listing-section" style="padding-top: 0; border: none;">
+                            <p class="contact">
+                                02 9232 2722<br>
+                                <a href="lawyer-result-maps.php?lawyer=3735">Show Map</a>
+                                <!--<a href="/3735/orourke-paul-sydney">Show More</a>-->
+                            </p>
+
+                            <p class="address">
+                                180 Phillip Street<br>
+                                Sydney NSW, 2000                            </p>
+                        </div><!-- end .listing-section -->
+
+                        <div class="listing-section attributes">
+                            <ul>
+                                
+                                <li><strong>Barrister</strong></li>
+                                                                <li>Criminal</li>
+                                                                <li>Personal Injury</li>
+                                                            </ul>
+                        </div>
+
+                    </div><!-- end .listing -->
+                </div>
+                                <div class="listing-container">
+                    <div class="shortlist-add-container" id='shortlist3736'>
+                        <a class="shortlist-add" href="javascript:addShortList2(3736);">Add to shortlist</a>
+                    </div><!-- end .shortlist-add-container -->
+
+                    <div class="listing">
+                        <div class="listing-header">
+                            <a href="/3736/orourkes-solicitors-conveyancers-coogee">O'Rourkes Solicitors & Conveyancers</a>
+                        </div><!-- end .listing-header -->
+
+                        <div class="listing-section" style="padding-top: 0; border: none;">
+                            <p class="contact">
+                                02 9315 8132<br>
+                                <a href="lawyer-result-maps.php?lawyer=3736">Show Map</a>
+                                <!--<a href="/3736/orourkes-solicitors-conveyancers-coogee">Show More</a>-->
+                            </p>
+
+                            <p class="address">
+                                19-21 Alfreda Street<br>
+                                Coogee NSW, 2034                            </p>
+                        </div><!-- end .listing-section -->
+
+                        <div class="listing-section attributes">
+                            <ul>
+                                                                <li><strong>Solicitor</strong></li>
+                                                                <li>Property & Conveyancing</li>
+                                                            </ul>
+                        </div>
+
+                    </div><!-- end .listing -->
+                </div>
+                                <div class="listing-container">
+                    <div class="shortlist-add-container" id='shortlist3749'>
+                        <a class="shortlist-add" href="javascript:addShortList2(3749);">Add to shortlist</a>
+                    </div><!-- end .shortlist-add-container -->
+
+                    <div class="listing">
+                        <div class="listing-header">
+                            <a href="/3749/osullivan-daniel-sydney">O'Sullivan</a>
+                        </div><!-- end .listing-header -->
+
+                        <div class="listing-section" style="padding-top: 0; border: none;">
+                            <p class="contact">
+                                02 9264 6899<br>
+                                <a href="lawyer-result-maps.php?lawyer=3749">Show Map</a>
+                                <!--<a href="/3749/osullivan-daniel-sydney">Show More</a>-->
+                            </p>
+
+                            <p class="address">
+                                185 Elizabeth Street<br>
+                                Sydney NSW, 2000                            </p>
+                        </div><!-- end .listing-section -->
+
+                        <div class="listing-section attributes">
+                            <ul>
+                                
+                                <li><strong>Barrister</strong></li>
+                                                            </ul>
+                        </div>
+
+                    </div><!-- end .listing -->
+                </div>
+                                <div class="listing-container">
+                    <div class="shortlist-add-container" id='shortlist3750'>
+                        <a class="shortlist-add" href="javascript:addShortList2(3750);">Add to shortlist</a>
+                    </div><!-- end .shortlist-add-container -->
+
+                    <div class="listing">
+                        <div class="listing-header">
+                            <a href="/3750/osullivan-john-sydney">O'Sullivan</a>
+                        </div><!-- end .listing-header -->
+
+                        <div class="listing-section" style="padding-top: 0; border: none;">
+                            <p class="contact">
+                                02 9373 7400<br>
+                                <a href="lawyer-result-maps.php?lawyer=3750">Show Map</a>
+                                <!--<a href="/3750/osullivan-john-sydney">Show More</a>-->
+                            </p>
+
+                            <p class="address">
+                                179 Elizabeth Street<br>
+                                Sydney NSW, 2000                            </p>
+                        </div><!-- end .listing-section -->
+
+                        <div class="listing-section attributes">
+                            <ul>
+                                
+                                <li><strong>Barrister</strong></li>
+                                                                <li>Criminal</li>
+                                                            </ul>
+                        </div>
+
+                    </div><!-- end .listing -->
+                </div>
+                                <div class="listing-container">
+                    <div class="shortlist-add-container" id='shortlist3751'>
+                        <a class="shortlist-add" href="javascript:addShortList2(3751);">Add to shortlist</a>
+                    </div><!-- end .shortlist-add-container -->
+
+                    <div class="listing">
+                        <div class="listing-header">
+                            <a href="/3751/osullivan-julian-sydney">O'Sullivan</a>
+                        </div><!-- end .listing-header -->
+
+                        <div class="listing-section" style="padding-top: 0; border: none;">
+                            <p class="contact">
+                                02 9221 1911<br>
+                                <a href="lawyer-result-maps.php?lawyer=3751">Show Map</a>
+                                <!--<a href="/3751/osullivan-julian-sydney">Show More</a>-->
+                            </p>
+
+                            <p class="address">
+                                5 Wentworth Chambers
+180 Phillip Street<br>
+                                Sydney NSW, 2000                            </p>
+                        </div><!-- end .listing-section -->
+
+                        <div class="listing-section attributes">
+                            <ul>
+                                
+                                <li><strong>Barrister</strong></li>
+                                                                <li>Commercial</li>
+                                                                <li>Confidential Info/Trade Secrets</li>
+                                                                <li>Construction</li>
+                                                                <li>Copyright</li>
+                                                                <li>Corporate Governance</li>
+                                                                <li>Corporations Act</li>
+                                                                <li>Debt Recovery</li>
+                                                                <li>Directors Duties</li>
+                                                                <li>Disciplinary Tribunals</li>
+                                                                <li>Entertainment</li>
+                                                                <li>Franchise</li>
+                                                                <span class='hiddenItem resultHidden2'>
+                                                                <li>Information Technology</li>
+                                                                <li>Insolvency</li>
+                                                                <li>Insurance Law</li>
+                                                                <li>Intellectual Property</li>
+                                                                <li>Leases</li>
+                                                                <li>Media Law</li>
+                                                                <li>Mining</li>
+                                                                <li>Patent Law</li>
+                                                                <li>Professional Negligence</li>
+                                                                <li>Trade Practices</li>
+                                                                <li>Trademarks</li>
+                                                                <li>Trusts</li>
+                                                                </span>
+                                <li><a href="#" class="resultMore2">more</a></li>
+                                                            </ul>
+                        </div>
+
+                    </div><!-- end .listing -->
+                </div>
+                                <div class="listing-container">
+                    <div class="shortlist-add-container" id='shortlist3752'>
+                        <a class="shortlist-add" href="javascript:addShortList2(3752);">Add to shortlist</a>
+                    </div><!-- end .shortlist-add-container -->
+
+                    <div class="listing">
+                        <div class="listing-header">
+                            <a href="/3752/osullivan-bernard-wooloomooloo">O'Sullivan</a>
+                        </div><!-- end .listing-header -->
+
+                        <div class="listing-section" style="padding-top: 0; border: none;">
+                            <p class="contact">
+                                02 9331 6868<br>
+                                <a href="lawyer-result-maps.php?lawyer=3752">Show Map</a>
+                                <!--<a href="/3752/osullivan-bernard-wooloomooloo">Show More</a>-->
+                            </p>
+
+                            <p class="address">
+                                27-51 Palmer Street<br>
+                                Wooloomooloo NSW, 2011                            </p>
+                        </div><!-- end .listing-section -->
+
+                        <div class="listing-section attributes">
+                            <ul>
+                                
+                                <li><strong>Barrister</strong></li>
+                                                                <li>Personal Injury</li>
+                                                                <li>Wills & Estates</li>
+                                                                <li>Aviation</li>
+                                                                <li>Insurance Law</li>
+                                                                <li>Maritime</li>
+                                                            </ul>
+                        </div>
+
+                    </div><!-- end .listing -->
+                </div>
+                                <div class="listing-container">
+                    <div class="shortlist-add-container" id='shortlist3678'>
+                        <a class="shortlist-add" href="javascript:addShortList2(3678);">Add to shortlist</a>
+                    </div><!-- end .shortlist-add-container -->
+
+                    <div class="listing">
+                        <div class="listing-header">
+                            <a href="/3678/oakes-malcolm-sc-sydney">Oakes, Malcolm, SC</a>
+                        </div><!-- end .listing-header -->
+
+                        <div class="listing-section" style="padding-top: 0; border: none;">
+                            <p class="contact">
+                                02 9233 7215<br>
+                                <a href="lawyer-result-maps.php?lawyer=3678">Show Map</a>
+                                <!--<a href="/3678/oakes-malcolm-sc-sydney">Show More</a>-->
+                            </p>
+
+                            <p class="address">
+                                174-180 Phillip Street<br>
+                                Sydney NSW, 2000                            </p>
+                        </div><!-- end .listing-section -->
+
+                        <div class="listing-section attributes">
+                            <ul>
+                                
+                                <li><strong>Barrister</strong></li>
+                                                                <li><strong>QC/Senior Counsel</strong></li>
+                                                                <li>Commercial</li>
+                                                                <li>Property & Conveyancing</li>
+                                                                <li>Wills & Estates</li>
+                                                            </ul>
+                        </div>
+
+                    </div><!-- end .listing -->
+                </div>
+                                <div class="listing-container">
+                    <div class="shortlist-add-container" id='shortlist3679'>
+                        <a class="shortlist-add" href="javascript:addShortList2(3679);">Add to shortlist</a>
+                    </div><!-- end .shortlist-add-container -->
+
+                    <div class="listing">
+                        <div class="listing-header">
+                            <a href="/3679/oakley-janet-sydney">Oakley</a>
+                        </div><!-- end .listing-header -->
+
+                        <div class="listing-section" style="padding-top: 0; border: none;">
+                            <p class="contact">
+                                02 9224 1510<br>
+                                <a href="lawyer-result-maps.php?lawyer=3679">Show Map</a>
+                                <!--<a href="/3679/oakley-janet-sydney">Show More</a>-->
+                            </p>
+
+                            <p class="address">
+                                169 Phillip Street<br>
+                                Sydney NSW, 2000                            </p>
+                        </div><!-- end .listing-section -->
+
+                        <div class="listing-section attributes">
+                            <ul>
+                                
+                                <li><strong>Barrister</strong></li>
+                                                                <li>Commercial</li>
+                                                                <li>Property & Conveyancing</li>
+                                                                <li>Wills & Estates</li>
+                                                                <li>Construction</li>
+                                                                <li>Insurance Law</li>
+                                                            </ul>
+                        </div>
+
+                    </div><!-- end .listing -->
+                </div>
+                                <div class="listing-container">
+                    <div class="shortlist-add-container" id='shortlist3680'>
+                        <a class="shortlist-add" href="javascript:addShortList2(3680);">Add to shortlist</a>
+                    </div><!-- end .shortlist-add-container -->
+
+                    <div class="listing">
+                        <div class="listing-header">
+                            <a href="/3680/oates-smith-solicitors-sydney">Oates & Smith Solicitors</a>
+                        </div><!-- end .listing-header -->
+
+                        <div class="listing-section" style="padding-top: 0; border: none;">
+                            <p class="contact">
+                                02 9261 2445<br>
+                                <a href="lawyer-result-maps.php?lawyer=3680">Show Map</a>
+                                <!--<a href="/3680/oates-smith-solicitors-sydney">Show More</a>-->
+                            </p>
+
+                            <p class="address">
+                                154 Elizabeth Street<br>
+                                Sydney NSW, 2000                            </p>
+                        </div><!-- end .listing-section -->
+
+                        <div class="listing-section attributes">
+                            <ul>
+                                                                <li><strong>Solicitor</strong></li>
+                                                            </ul>
+                        </div>
+
+                    </div><!-- end .listing -->
+                </div>
+                
+                <div class="pagination">
+                                        <a href="#" onclick="javascript:nextPage(103);">« Prev</a>
+                                        <span class="active">Displaying 2061 - 2080 </span>
+                                        <a href="#" onclick="nextPage(105);">Next »</a>
+                                    </div>
+
+            </div>
+
+        </div>
+
+         <div id="bottom">
+
+            <h2 class="zeta">If you like the <strong>Australian Lawyers Directory</strong> you will also like</h2>
+
+            <ul id="directories-nav">
+                <li>
+                    <strong>Australian Schools Directory</strong><br />
+                    <a href="http://www.australianschoolsdirectory.com.au/" target="_blank">www.australianschoolsdirectory.com.au</a>
+                </li>
+                <li> <strong>Private Schools Directory</strong><br />
+                    <a href="http://privateschoolsdirectory.com.au" target="_blank">www.privateschoolsdirectory.com.au</a>
+                </li>
+                <li><strong>Australian Accountants Directory</strong><br />
+                    <a href="http://australianaccountantsdirectory.com.au" target="_blank">www.australianaccountantsdirectory.com.au</a>
+                </li>
+                <li><strong>Australian Dentists Directory</strong><br />
+                    <a href="http://australiandentistsdirectory.com.au" target="_blank">www.australiandentistsdirectory.com.au</a>
+                </li>
+                <li><strong>Australian Doctors Directory</strong><br />
+                    <a href="http://australiandoctorsdirectory.com.au" target="_blank">www.australiandoctorsdirectory.com.au</a>
+
+                </li>
+            </ul>
+
+        </div><!-- #footer -->
+        <div id="bottom-nav">
+            <ul>
+                <li><a href="/UsingThisWebsite/6/Overview.html">Using this site</a></li>
+                <li><a href="/Disclaimer/7/Overview.html">Disclaimer</a></li>
+                <li><a href="/PrivacyPolicy/8/Overview.html">Privacy Policy</a></li>
+                <li><a href="/sitemap.php">Sitemap</a></li>
+                <li><a href="/AboutUs/10/Overview.html">About us</a></li>
+                <li><a href="/contact.php">Contact us</a></li>
+                
+            </ul>
+
+            Copyright &copy; Australian Lawyers Directory 2016        </div><!-- end #bottom-nav -->
+        
+    </div><!-- end #container -->
+
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-15923374-1', 'australianlawyersdirectory.com.au');
+      ga('send', 'pageview');
+
+    </script>
+
+</body>
+</html>
