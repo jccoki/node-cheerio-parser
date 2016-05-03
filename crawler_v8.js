@@ -21,7 +21,7 @@ var output_dir = "./output";
 
 var output_file_name = project_name + ' Webscraped Data ' + ts
 
-var fieldHeaders = ['name', 'address', 'phone', 'email', 'website'];
+var fieldHeaders = ['name', 'address', 'phone', 'email', 'website', 'qualification'];
 
 var csv_data = []
 var header_line = '\"' + fieldHeaders.join('\",\"') + '\"\r\n'
@@ -34,7 +34,7 @@ fs.readdirAsync(input_dir).map(function (filename) {
     var parsedEl
 
     parsedFile('div.ResultsBody').each(function(index, el){
-      var name = '', address = '', website = '', email = '', phone = ''
+      var name = '', address = '', website = '', email = '', phone = '', qualification = ''
 
       if(cheerio(el).html() != ''){
         parsedEl =  cheerio(el)
@@ -42,8 +42,12 @@ fs.readdirAsync(input_dir).map(function (filename) {
         if(parsedEl.find('h3.ResultTitle') != ''){
           name = parsedEl.find('h3.ResultTitle').find('a').html()
           name = entities.decodeHTML(name)
+
+          qualification = parsedEl.find('h3.ResultTitle').find('span').get(1).childNodes[0].data
+          qualification = entities.decodeHTML(qualification)
         }
         name = "\"" + name + "\""
+        qualification = "\"" + qualification + "\""
 
         if(parsedEl.find('span.ResultAddress') != ''){
           address = parsedEl.find('span.ResultAddress').find('span').html()
@@ -71,8 +75,8 @@ fs.readdirAsync(input_dir).map(function (filename) {
         }
         website = "\"" + website + "\""
 
-        output_line = name + ',' + address + ',' + phone + ',' + email + ',' + website
-        console.log(output_line)
+        output_line = name + ',' + address + ',' + phone + ',' + email + ',' + website + ',' + qualification
+//        console.log(output_line)
 
         fs.appendFileAsync( output_dir + '/' + output_file_name + '.log', output_line + '\r\n')
         fs.appendFileAsync( output_dir + '/' + output_file_name + '.csv', output_line + '\r\n');
